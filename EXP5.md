@@ -1,7 +1,10 @@
-Ex.No: 5 BINARY SEARCH (check whether the Binary Search and inspect for failures).
-DATE : 05-02-2025
-REGISTER NUMBER : 212221040022
-AIM:
+## Ex.No: 5 BINARY SEARCH (check whether the Binary Search and inspect for failures).
+
+## DATE : 05-02-2025
+
+## REGISTER NUMBER : 212221040034
+
+### AIM: 
 Write a python program for Binary Search and inspect for failures.
 ### Algorithm:
 
